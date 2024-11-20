@@ -1,0 +1,77 @@
+﻿<UserControl:BlockBase
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             x:Name="blockControl" x:Class="VisualApplicationBuilder.Block.SwitchBlock" 
+             xmlns:UserControl="clr-namespace:VisualApplicationBuilder.ResourceClasses;assembly=ResourceClasses"
+             mc:Ignorable="d" Height="355.115" SizeChanged="blockControl_SizeChanged" Width="505.612" >
+
+    <UserControl.Resources>
+
+    </UserControl.Resources>
+
+    <Border x:Name="borderOuter" Background="{DynamicResource BackgroundBrush}" BorderBrush="{DynamicResource BorderBrush2}" BorderThickness="1" CornerRadius="0" Margin="0,1,0,0">
+        <StackPanel x:Name="stackPanelOuter" Margin="0,0,0,0">
+            <Grid x:Name="gridHeader" Margin="1,1,1,0" Height="30" VerticalAlignment="Top" Background="{DynamicResource BackgroundBrush2}" MouseEnter="gridHeader_MouseEnter">
+                <Label x:Name="labelBlockName" Content="Switch" HorizontalAlignment="Left" Margin="27,1,0,0" VerticalAlignment="Top" Foreground="{DynamicResource DisabledBackgroundBrush}" Background="{x:Null}"/>
+                <Ellipse x:Name="statusIndicator" HorizontalAlignment="Left" Height="20" Width="20" Margin="5,5,0,0" VerticalAlignment="Top" Fill="{DynamicResource DisabledBackgroundBrush}">
+                    <Ellipse.OpacityMask>
+                        <ImageBrush ImageSource="/img/switch.png"/>
+                    </Ellipse.OpacityMask>
+                </Ellipse>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,40,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonHighlight" BorderBrush="{x:Null}" Background="{DynamicResource OrangeBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource HighlightButtonBrush}"/>
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,9,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonRemoveBlock" BorderBrush="{x:Null}" Background="{DynamicResource RedBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource CloseButtonBrush}" />
+            </Grid>
+
+            <Grid x:Name="gridSwitchVariable" Height="25" Margin="10,10,10,0" VerticalAlignment="Top">
+
+                <Border BorderBrush="{DynamicResource BlueBrush}" BorderThickness="1" CornerRadius="0" HorizontalAlignment="Left" Width="91">
+                    <TextBox Background="{x:Null}" BorderBrush="{x:Null}" IsReadOnly="True" Foreground="{DynamicResource DisabledBackgroundBrush}">switch variable</TextBox>
+                </Border>
+                <Border BorderBrush="{DynamicResource BlueBrush}" BorderThickness="0, 1, 1, 1" CornerRadius="0" Background="{DynamicResource BorderBrush}" Margin="91,0,0,0">
+                    <TextBox x:Name="textBoxSwitchVariable" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="{DynamicResource TextBrush2}" MouseEnter="textBoxSwitchVariable_MouseEnter" />
+                </Border>
+            </Grid>
+
+            <Grid x:Name="AddCase" Margin="10,10,0,0" Height="30" HorizontalAlignment="Left" Width="93" MouseEnter="AddCase_MouseEnter">
+                <Button Style="{DynamicResource AlphaButtonStyle}" Width="30" x:Name="buttonAddCase" Click="buttonAddCase_Click" BorderBrush="{x:Null}" Background="{DynamicResource DisabledBackgroundBrush}" ToolTip="Add Case" HorizontalAlignment="Left" Margin="0" OpacityMask="{DynamicResource AddParameterButtonBrush}"/>
+                <Label Content="Add case" Foreground="{DynamicResource DisabledBackgroundBrush}" Margin="30,0,0,0" Background="{x:Null}" />
+            </Grid>
+
+            <Grid x:Name="gridDefault" Height="225" Margin="10,10,10,0" VerticalAlignment="Top">
+                <Border BorderBrush="{DynamicResource BlueBrush}" BorderThickness="1" CornerRadius="0" Height="25" VerticalAlignment="Top" Grid.ColumnSpan="2">
+                    <TextBox x:Name="textBoxDefaultCase" Background="{x:Null}" BorderBrush="{x:Null}" IsReadOnly="True" Foreground="{DynamicResource DisabledBackgroundBrush}" Text="default:" MouseEnter="textBoxDefaultCase_MouseEnter"/>
+                </Border>
+
+                <Border x:Name="caseBorder" Margin="0,24,0,0" CornerRadius="0" BorderBrush="{DynamicResource BlueBrush}" BorderThickness="1" >
+                    <StackPanel x:Name="stackPanelDefault" Margin="0,0,0,0" AllowDrop="True">
+                        <StackPanel.Background>
+                            <DrawingBrush TileMode="Tile" Viewport="0,0,15,15" ViewportUnits="Absolute">
+                                <DrawingBrush.Drawing>
+                                    <DrawingGroup>
+                                        <GeometryDrawing Geometry="M-10,-5 L0,-5 M0,5 L10,5">
+                                            <GeometryDrawing.Pen>
+                                                <Pen Thickness="10" Brush="{DynamicResource BackgroundBrush}" />
+                                            </GeometryDrawing.Pen>
+                                        </GeometryDrawing>
+
+                                        <GeometryDrawing Geometry="M0,-5 L10,-5 M-10,5 L0,5">
+                                            <GeometryDrawing.Pen>
+                                                <Pen Thickness="10" Brush="{DynamicResource BackgroundBrush3}" />
+                                            </GeometryDrawing.Pen>
+                                        </GeometryDrawing>
+                                    </DrawingGroup>
+                                </DrawingBrush.Drawing>
+                            </DrawingBrush>
+                        </StackPanel.Background>
+                    </StackPanel>
+                </Border>
+            </Grid>
+      
+            <Label Content="end switch" Margin="0,-3,10,0" Height="18" Foreground="{DynamicResource BlueBrush}" HorizontalContentAlignment="Right" Padding="1" HorizontalAlignment="Right" Width="48" FontStyle="Italic" FontSize="10"/>
+
+        </StackPanel>
+    </Border>
+</UserControl:BlockBase>

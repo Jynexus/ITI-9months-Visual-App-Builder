@@ -1,0 +1,11 @@
+D:\iTi\PROJECT\ResourceClasses\ResourceClasses\obj\Debug\ResourceClasses.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\obj\Debug\ResourceClasses.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\obj\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\obj\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder\ResourceClasses\obj\Debug\ResourceClasses.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder\ResourceClasses\obj\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder\ResourceClasses\obj\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder\ResourceClasses\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder\ResourceClasses\bin\Debug\ResourceClasses.pdb
