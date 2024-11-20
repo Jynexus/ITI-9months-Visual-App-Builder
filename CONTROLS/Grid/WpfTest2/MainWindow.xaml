@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Grid="clr-namespace:Grid;assembly=Grid" x:Class="WpfTest2.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <Grid:tempBlock HorizontalAlignment="Left" Margin="16,17,0,0" VerticalAlignment="Top" Height="221" Width="315"/>
+
+    </Grid>
+</Window>

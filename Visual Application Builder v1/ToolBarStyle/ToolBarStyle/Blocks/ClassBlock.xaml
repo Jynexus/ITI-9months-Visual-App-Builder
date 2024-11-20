@@ -1,0 +1,80 @@
+﻿<UserControl:BlockBase
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             x:Class="VisualApplicationBuilder.Block.ClassBlock" 
+             xmlns:UserControl="clr-namespace:VisualApplicationBuilder.ResourceClasses;assembly=ResourceClasses"
+             mc:Ignorable="d" Height="300" Width="400" MinWidth="400" >
+
+    <UserControl.Resources>
+
+    </UserControl.Resources>
+
+    <Border Background="{DynamicResource BackgroundBrush}" BorderBrush="{DynamicResource BorderBrush2}" BorderThickness="1" CornerRadius="0">
+        <StackPanel x:Name="stackPanelOuter">
+            <Grid x:Name="gridHeader" Height="30" Margin="1,1,1,0" Background="{DynamicResource BackgroundBrush2}" MouseEnter="gridHeader_MouseEnter">
+                <Label x:Name="labelBlockName" Content="class" HorizontalAlignment="Left" Margin="30,1,0,0" VerticalAlignment="Top" Foreground="{DynamicResource DisabledBackgroundBrush}" Height="26" Width="71"/>
+                <Ellipse x:Name="statusIndicator" HorizontalAlignment="Left" Height="20" Width="20" Margin="5,5,0,0" VerticalAlignment="Top" Fill="{DynamicResource DisabledBackgroundBrush}">
+                    <Ellipse.OpacityMask>
+                        <ImageBrush ImageSource="/img/class.png"/>
+                    </Ellipse.OpacityMask>
+                </Ellipse>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,40,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonHighlight" BorderBrush="{x:Null}" Background="{DynamicResource OrangeBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource HighlightButtonBrush}"/>
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,9,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonRemoveBlock" BorderBrush="{x:Null}" Background="{DynamicResource RedBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource CloseButtonBrush}" />
+            </Grid>
+
+
+            <Grid Height="25" Margin="10,10,10,0" VerticalAlignment="Top">
+                <ComboBox HorizontalAlignment="Left" Margin="0,0,0,0" Width="152" Name="comboboxModifier" MouseEnter="comboboxModifier_MouseEnter" />
+
+
+                <Border Margin="157,0,0,0" BorderThickness="1, 1, 1, 1" CornerRadius="0" BorderBrush="{DynamicResource BlueBrush}" Background="{DynamicResource BorderBrush}">
+                    <TextBox Margin="0,0,0,0" TextWrapping="Wrap" Name="textBoxName" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{DynamicResource TextBrush2}" MouseEnter="textBoxName_MouseEnter"/>
+                </Border>
+            </Grid>
+
+
+            <Grid x:Name="gridBody" Margin="10,10,10,0" Height="211" VerticalAlignment="Top">
+                <Border BorderBrush="{DynamicResource BlueBrush}" CornerRadius="0" BorderThickness="1" Height="25" VerticalAlignment="Top">
+                    <TextBox Background="{x:Null}" BorderBrush="{x:Null}" IsReadOnly="True" Foreground="{DynamicResource DisabledBackgroundBrush}">Body</TextBox>
+                </Border>
+                <Border BorderBrush="{DynamicResource BlueBrush}" CornerRadius="0" BorderThickness="1, 0, 1, 1" Margin="0,25,0,0">
+                    <StackPanel AllowDrop="True" x:Name="stackPanelBody">
+                        <StackPanel.Background>
+                            <DrawingBrush TileMode="Tile" Viewport="0,0,15,15" ViewportUnits="Absolute">
+                                <DrawingBrush.RelativeTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                        <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                                        <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </DrawingBrush.RelativeTransform>
+                                <DrawingBrush.Drawing>
+                                    <DrawingGroup>
+                                        <GeometryDrawing Geometry="M-10,-5 L0,-5 M0,5 L10,5">
+                                            <GeometryDrawing.Pen>
+                                                <Pen Thickness="10" Brush="{DynamicResource BackgroundBrush}" />
+                                            </GeometryDrawing.Pen>
+                                        </GeometryDrawing>
+
+                                        <GeometryDrawing Geometry="M0,-5 L10,-5 M-10,5 L0,5">
+                                            <GeometryDrawing.Pen>
+                                                <Pen Thickness="10" Brush="{DynamicResource BackgroundBrush3}" />
+                                            </GeometryDrawing.Pen>
+                                        </GeometryDrawing>
+                                    </DrawingGroup>
+                                </DrawingBrush.Drawing>
+                            </DrawingBrush>
+                        </StackPanel.Background>
+                    </StackPanel>
+                </Border>
+            </Grid>
+            <Label Content="end class" Margin="0,-3,10,0" Height="18" Foreground="{DynamicResource BlueBrush}" HorizontalContentAlignment="Right" Padding="1" HorizontalAlignment="Right" Width="42" FontStyle="Italic" FontSize="10"/>
+
+
+        </StackPanel>
+    </Border>
+</UserControl:BlockBase>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Blocks>
+	<Using>
+		<Directive String="using System;" />
+		<Directive String="using System.Collections.Generic;" />
+		<Directive String="using System.Linq;" />
+		<Directive String="using System.Text;" />
+	</Using>
+
+	<Namespace Name="ConsoleApplication1">
+		<InnerBlocks>
+			<Class Modifier="public" ClassName="Program">
+				<InnerBlocks>
+					<Method Modifier="public static" ReturnType="void" MethodName="Main">
+						<Parameters>
+							<p String="string[] args" />
+						</Parameters>
+						<InnerBlocks>
+							<Variable CheckComplex="True" Identifier="student S1 = new student (1,&quot;Mariam&quot;,10)" />
+							<Output String="&quot;The first student name is : &quot;+S1.Name" />
+							<Output String="&quot;please enter student data &quot;" />
+							<Variable CheckComplex="False" Type="int" Identifier="stId" />
+							<Variable CheckComplex="False" Type="string" Identifier="stName" />
+							<Variable CheckComplex="False" Type="int" Identifier="stGrade" />
+							<Input Variable="stId" Type="1" />
+							<Input Variable="stName" Type="0" />
+							<Input Variable="stGrade" Type="1" />
+							<Variable CheckComplex="True" Identifier="student S2 = new student (stId,stName,stGrade) " />
+							<Output String="&quot;the student data :&quot;" />
+							<Output String="&quot;student ID :&quot; +stId" />
+							<Output String="&quot;student Name ; &quot;+ stName" />
+							<Output String="&quot;student Grade : &quot;+ stGrade" />
+							<Input Variable="" Type="0" />
+						</InnerBlocks>
+					</Method>
+				</InnerBlocks>
+			</Class>
+
+			<Class Modifier="public" ClassName="student">
+				<InnerBlocks>
+					<Variable CheckComplex="True" Identifier="public int ID" />
+					<Variable CheckComplex="True" Identifier="public string Name" />
+					<Variable CheckComplex="True" Identifier="public int Grade" />
+					<Method Modifier="public" ReturnType="" MethodName="student">
+						<Parameters><p String="int stID" />
+						<p String="string stName" />
+						<p String="int stGrade" />
+					</Parameters>
+					<InnerBlocks>
+						<Statement String="this.ID= stID" />
+						<Statement String="this.Name = stName" />
+						<Statement String="this.Grade = stGrade" />
+					</InnerBlocks>
+				</Method>
+			</InnerBlocks>
+		</Class>
+	</InnerBlocks>
+</Namespace>
+</Blocks>

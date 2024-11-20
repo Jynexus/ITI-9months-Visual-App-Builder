@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Blocks>
+	<Using>
+		<Directive String="using System;" />
+		<Directive String="using System.Collections.Generic;" />
+		<Directive String="using System.Linq;" />
+		<Directive String="using System.Text;" />
+	</Using>
+
+	<Namespace Name="ConsoleApplication1">
+		<InnerBlocks>
+			<Class Modifier="public" ClassName="Program">
+				<InnerBlocks>
+					<Method Modifier="public static" ReturnType="void" MethodName="Main">
+						<Parameters>
+							<p String="string[] args" />
+						</Parameters>
+
+						<InnerBlocks />
+					</Method>
+				</InnerBlocks>
+			</Class>
+		</InnerBlocks>
+	</Namespace>
+</Blocks>

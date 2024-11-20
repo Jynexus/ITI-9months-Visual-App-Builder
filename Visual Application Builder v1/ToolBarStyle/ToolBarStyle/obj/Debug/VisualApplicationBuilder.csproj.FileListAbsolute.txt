@@ -1,0 +1,199 @@
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe.config
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\App.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.g.resources
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.Properties.Resources.resources
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\App.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe.config
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\bin\Debug\CustomMessageBox.exe
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\bin\Debug\CustomMessageBox.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\App.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.g.resources
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.Properties.Resources.resources
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\BlockResourceDictionary - Light.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark\ToolBarStyle\ToolBarStyle\obj\Debug\App.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe.config
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\bin\Debug\CustomMessageBox.exe
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\bin\Debug\CustomMessageBox.pdb
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\App.baml
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\App.g.cs
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.g.resources
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.Properties.Resources.resources
+D:\iTi\PROJECT\Visual Application Builder - Dark v1\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\WhileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\WhileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\MainPage.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\MainPage.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe.config
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\WhileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\App.baml
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ClassBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\WhileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\CustomMessageBox.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ForBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\FromFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\IfThenElseBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\InputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\MethodBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\NamespaceBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\OutputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StatementBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\StructBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\SwitchBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\ToFileBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\UsingBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\Blocks\VariableBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\App.g.cs
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.g.resources
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.Properties.Resources.resources
+D:\iTi\PROJECT\Visual Application Builder v1\ToolBarStyle\ToolBarStyle\obj\Debug\VisualApplicationBuilder.csproj.GenerateResource.Cache

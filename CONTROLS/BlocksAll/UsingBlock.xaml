@@ -1,0 +1,37 @@
+﻿<UserControl:BlockBase
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:UserControl="clr-namespace:VisualApplicationBuilder.ResourceClasses;assembly=ResourceClasses"
+             x:Class="VisualApplicationBuilder.Block.UsingBlock"
+             mc:Ignorable="d" Height="74.833" Width="400" >
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="BlockResourceDictionary.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border x:Name="borderOuter" Background="{DynamicResource BackgroundBrush}" BorderBrush="{DynamicResource BorderBrush2}" BorderThickness="1" CornerRadius="0" Margin="0,0,1,-1">
+        <StackPanel x:Name="stackPanelOuter" Margin="-1">
+            <Grid x:Name="gridHeader" Height="30" Margin="1,1,1,0" Background="{DynamicResource BackgroundBrush2}">
+                <Label x:Name="labelBlockName" Content="Using" HorizontalAlignment="Left" Margin="26,1,0,0" VerticalAlignment="Top" Foreground="#FFBFBFBF" Height="26" Width="61"/>
+                <Ellipse x:Name="statusIndicator" HorizontalAlignment="Left" Height="17" Width="17" Margin="10,6,0,0" Stroke="#FF007ACC" VerticalAlignment="Top"/>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,40,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonHighlight" BorderBrush="{x:Null}" Background="{DynamicResource OrangeBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource HighlightButtonBrush}"/>
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,9,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonRemoveBlock" BorderBrush="{x:Null}" Background="{DynamicResource RedBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource CloseButtonBrush}"/>
+
+            </Grid>
+            <StackPanel Orientation="Horizontal" Height="25" Margin="0,10,0,0">
+                <ComboBox x:Name="comboboxMainNS" Margin="10, 0, 10, 0" Width="160" SelectionChanged="comboboxMainNS_SelectionChanged" />
+                <ComboBox x:Name="comboboxNSS" Width="170" />
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" Width="25" Height="25" Name="buttonAddUsing" Click="buttonAddUsingDirective_Click" BorderBrush="{x:Null}" OpacityMask="{DynamicResource AddParameterButtonBrush}" Background="{DynamicResource BorderBrush}" HorizontalAlignment="Right" Margin="15,0,0,0"/>
+
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</UserControl:BlockBase>

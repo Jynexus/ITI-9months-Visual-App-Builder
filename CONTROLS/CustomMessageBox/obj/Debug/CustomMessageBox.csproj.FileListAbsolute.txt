@@ -1,0 +1,13 @@
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox.baml
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox.g.cs
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\App.g.cs
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox_MarkupCompile.cache
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox.g.resources
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+D:\iTi\PROJECT\Visual Application Builder\CustomMessageBox\obj\Debug\CustomMessageBox.pdb

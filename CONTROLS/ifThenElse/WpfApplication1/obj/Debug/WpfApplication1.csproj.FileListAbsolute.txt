@@ -1,0 +1,4 @@
+D:\iTi\PROJECT\CONTROLS\ifThenElse\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\iTi\PROJECT\CONTROLS\ifThenElse\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS\ifThenElse\WpfApplication1\obj\Debug\App.g.cs
+D:\iTi\PROJECT\CONTROLS\ifThenElse\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache

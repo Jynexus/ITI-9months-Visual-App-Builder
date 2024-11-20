@@ -1,0 +1,14 @@
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\ifThenElse.g.cs
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\Grid_MarkupCompile.cache
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\Grid.dll
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\ifThenElse.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\ifThenElse.baml
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\Grid.g.resources
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\BlockBase.Properties.Resources.resources
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\ifThenElse.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\bin\Debug\Grid.dll
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\bin\Debug\Grid.pdb
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\bin\Debug\StatusIndicator.pdb
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\obj\Debug\Grid.pdb
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\ifThenElse\Grid\bin\Debug\ResourceClasses.pdb

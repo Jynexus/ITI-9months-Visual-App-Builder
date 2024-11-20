@@ -1,0 +1,10 @@
+D:\iTi\PROJECT\ResourceClasses\ResourceClasses\bin\Release\ResourceClasses.dll
+D:\iTi\PROJECT\ResourceClasses\ResourceClasses\bin\Release\ResourceClasses.pdb
+D:\iTi\PROJECT\ResourceClasses\ResourceClasses\obj\Release\ResourceClasses.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\ResourceClasses\ResourceClasses\obj\Release\ResourceClasses.dll
+D:\iTi\PROJECT\ResourceClasses\ResourceClasses\obj\Release\ResourceClasses.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\obj\Release\ResourceClasses.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\obj\Release\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\obj\Release\ResourceClasses.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\bin\Release\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ResourceClasses\bin\Release\ResourceClasses.pdb

@@ -1,0 +1,80 @@
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\bin\Debug\BlocksAll.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\bin\Debug\BlocksAll.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\ClassBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\ForBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\IfThenElseBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\Namespace.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\StatementBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\UsingBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\VariableBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\ClassBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\ForBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\IfThenElseBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\Namespace.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\StatementBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\UsingBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\VariableBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlocksAll_MarkupCompile.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlocksAll.g.resources
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlocksAll.Properties.Resources.resources
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlocksAll.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlocksAll.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlocksAll.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\Struct.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\Struct.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\MethodBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\MethodBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\InputBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\OutputBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\InputBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\OutputBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\SwitchBlock.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\SwitchBlock.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\Message.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\Message.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\BlocksAll\obj\Debug\BlocksAll.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\bin\Debug\BlocksAll.dll
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\bin\Debug\BlocksAll.pdb
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlocksAll.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\InputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\MethodBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\OutputBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\Struct.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\ClassBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\ForBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\IfThenElseBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\Namespace.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\StatementBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\SwitchBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\UsingBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\VariableBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\InputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\MethodBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\OutputBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\Struct.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\ClassBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\ForBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\IfThenElseBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\Namespace.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\StatementBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\SwitchBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\UsingBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\VariableBlock.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlocksAll_MarkupCompile.cache
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlocksAll.g.resources
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlocksAll.Properties.Resources.resources
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlocksAll.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlocksAll.dll
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\BlocksAll.pdb
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\CustomMessageBox.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\CustomMessageBox.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\ToFile.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\ToFile.g.cs
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\FromFileBlock.baml
+D:\iTi\PROJECT\Visual Application Builder\BlocksAll\obj\Debug\FromFileBlock.g.cs

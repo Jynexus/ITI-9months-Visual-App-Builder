@@ -1,0 +1,17 @@
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Release\ToolBarStyle.exe.config
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\ToolBarStyle.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\MainWindow.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\MainWindow.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\App.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\ToolBarStyle.g.resources
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\ToolBarStyle.Properties.Resources.resources
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\ToolBarStyle.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Release\ToolBarStyle.exe
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Release\ToolBarStyle.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Release\BlocksAll.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Release\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Release\BlocksAll.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Release\ResourceClasses.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\ToolBarStyle.exe
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Release\ToolBarStyle.pdb

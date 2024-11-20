@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocksAll", "BlocksAll\BlocksAll.csproj", "{BE9C955F-430F-4EDB-B292-503BB936729A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceClasses", "ResourceClasses\ResourceClasses.csproj", "{E63F8541-4B8C-4642-9B43-AA5C7009E11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBarStyle", "ToolBarStyle\ToolBarStyle\ToolBarStyle.csproj", "{DF5F7076-EED1-4D19-9C90-3628DA2C75EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9C955F-430F-4EDB-B292-503BB936729A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9C955F-430F-4EDB-B292-503BB936729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9C955F-430F-4EDB-B292-503BB936729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9C955F-430F-4EDB-B292-503BB936729A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63F8541-4B8C-4642-9B43-AA5C7009E11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63F8541-4B8C-4642-9B43-AA5C7009E11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63F8541-4B8C-4642-9B43-AA5C7009E11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63F8541-4B8C-4642-9B43-AA5C7009E11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5F7076-EED1-4D19-9C90-3628DA2C75EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F7076-EED1-4D19-9C90-3628DA2C75EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F7076-EED1-4D19-9C90-3628DA2C75EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F7076-EED1-4D19-9C90-3628DA2C75EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
