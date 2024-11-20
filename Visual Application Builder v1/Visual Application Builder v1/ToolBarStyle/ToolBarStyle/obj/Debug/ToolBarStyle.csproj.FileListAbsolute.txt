@@ -1,0 +1,53 @@
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe.config
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.baml
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.g.cs
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\App.g.cs
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.g.resources
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.Properties.Resources.resources
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\bin\Debug\BlocksAll.dll
+D:\iTi\PROJECT\CONTROLS - TEST\ToolBarStyle\ToolBarStyle\bin\Debug\BlocksAll.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe.config
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Debug\BlocksAll.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Debug\BlocksAll.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.baml
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\App.g.cs
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.g.resources
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.Properties.Resources.resources
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\CONTROLS\BlocksAll\ToolBarStyle\ToolBarStyle\obj\Debug\BlockResourceDictionary.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe.config
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.exe
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ToolBarStyle.pdb
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\BlocksAll.dll
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.dll
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\BlocksAll.pdb
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\bin\Debug\ResourceClasses.pdb
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.csprojResolveAssemblyReference.cache
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.baml
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\MainWindow.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\App.g.cs
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle_MarkupCompile.cache
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.g.resources
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.Properties.Resources.resources
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\ToolBarStyle.csproj.GenerateResource.Cache
+D:\iTi\PROJECT\Visual Application Builder\ToolBarStyle\ToolBarStyle\obj\Debug\BlockResourceDictionary.baml

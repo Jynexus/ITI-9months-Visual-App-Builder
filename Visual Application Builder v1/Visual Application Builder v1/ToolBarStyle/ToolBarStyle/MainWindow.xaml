@@ -1,0 +1,206 @@
+﻿<Window x:Name="Visual_Application_Builder" x:Class="VisualApplicationBuilder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Visual Application Builder" Height="722.5" Width="1133.5"
+        Icon="img/Icon.png">
+
+    <Window.Resources>
+        
+    </Window.Resources>
+
+    <Grid x:Name="gridMain" Background="{DynamicResource BackgroundBrush}" MouseUp="gridMain_MouseUp">
+        <Border BorderBrush="{DynamicResource BorderBrush2}" BorderThickness="1" CornerRadius="0" HorizontalAlignment="Left" Margin="26,87,0,53" Width="35" Background="{DynamicResource BackgroundBrush2}" PreviewMouseLeftButtonDown="StackPanel_MouseDown" PreviewMouseMove="StackPanel_MouseMove" >
+            <StackPanel MouseDown="StackPanel_MouseDown" MouseMove="StackPanel_MouseMove">
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonUsing" ToolTip="using directive" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/using.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Label Margin="0, 10, 0, 0" Foreground="{x:Null}" Height="1" Background="{x:Null}" />
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonNamespace" ToolTip="namespace" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/namespace.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonClass" ToolTip="class definition" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/class.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonStruct" ToolTip="struct definition" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/struct.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonMethod" ToolTip="method definition" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/method2.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonVariable" ToolTip="variable declaration, initialization" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/var.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Label Margin="0, 10, 0, 0" Foreground="{x:Null}" Height="1" Background="{x:Null}" />
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonStatement" ToolTip="statement" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/statement.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonCondition" ToolTip="if condition" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/condition.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonLoop" ToolTip="for loop" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/loop.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonSwitch" ToolTip="switch" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/switch.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Label Margin="0, 10, 0, 0" Foreground="{x:Null}" Height="1" Background="{x:Null}" />
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonInput" ToolTip="input from console" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/input.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonOutput" ToolTip="output to console" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/output.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Label Margin="0, 10, 0, 0" Foreground="{x:Null}" Height="1" Background="{x:Null}" />
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonFromFile" ToolTip="read from file" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/fromFile.png"/>
+                    </Button.OpacityMask>
+                </Button>
+
+                <Button Style="{DynamicResource AlphaButtonStyle}" x:Name="buttonToFile" ToolTip="write to file" Height="25" Width="25" Margin="0, 10, 0, 0" Background="{DynamicResource DisabledBackgroundBrush}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="img/ToFile.png"/>
+                    </Button.OpacityMask>
+                </Button>
+            </StackPanel>
+        </Border>
+
+
+        <Border BorderBrush="{DynamicResource BorderBrush2}" BorderThickness="1" Margin="75,109,10,53" CornerRadius="0">
+            <Grid Margin="0,0,-1,0">
+                <ScrollViewer x:Name="scrollViewerDropZone" Margin="10,9,41,10" Foreground="{x:Null}" HorizontalScrollBarVisibility="Auto">
+                    <StackPanel x:Name="stackPanelDropZone" Margin="0, 0, 0, 0" Background="{DynamicResource BackgroundBrush}" DragEnter="stackPanelDropZone_DragEnter" Drop="stackPanelDropZone_Drop" AllowDrop="True" DragOver="stackPanelDropZone_DragOver"/>
+                </ScrollViewer>
+
+                <Button x:Name="buttonCodePanel" Style="{DynamicResource BackGroundButtonStyle}" Content="&lt;" HorizontalAlignment="Right" Margin="0,10,10,10" Width="10" Background="{DynamicResource BackgroundBrush2}" BorderBrush="{x:Null}" Foreground="{DynamicResource DisabledBackgroundBrush}" Click="buttonCodePanel_Click" ToolTip="View code" FontFamily="Batang"/>
+                <Border x:Name="borderCodePanel" BorderBrush="{DynamicResource BorderBrush2}" BorderThickness="1" HorizontalAlignment="Right" Margin="0,10,20,10" Width="500" Background="{DynamicResource BackgroundBrush}" Panel.ZIndex="1">
+                    <Grid>
+                        <ScrollViewer HorizontalScrollBarVisibility="Auto">
+                            <TextBlock x:Name="textBlockCode" Background="{DynamicResource BackgroundBrush}" Foreground="{DynamicResource DisabledBackgroundBrush}" AllowDrop="False" />
+                        </ScrollViewer>
+                        
+                        <!--This thing covers the white rectangle at the bottom right corner of the scrollViewer!!!!-->
+                        <Rectangle Fill="{DynamicResource BackgroundBrush}" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="30"/>
+                    </Grid>
+                </Border>
+                <!--This thing covers the white rectangle at the bottom right corner of the scrollViewer!!!!-->
+                <Rectangle Margin="0,0,41,10" Fill="{DynamicResource BackgroundBrush}" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="30"/>
+            </Grid>
+        </Border>
+        <Rectangle Fill="{DynamicResource BlueBrush}" HorizontalAlignment="Left" Height="75" Margin="22,87,0,0" Stroke="{DynamicResource BlueBrush}" VerticalAlignment="Top" Width="4"/>
+        <Rectangle Fill="{DynamicResource BlueBrush}" Height="22" Margin="75,87,10,0" VerticalAlignment="Top" Stroke="{DynamicResource BlueBrush}"/>
+        <Label HorizontalAlignment="Left" Height="40" Width="40" Margin="22,20,0,0" VerticalAlignment="Top" Foreground="{x:Null}" Background="{DynamicResource DisabledBackgroundBrush}">
+            <Label.OpacityMask>
+                <ImageBrush ImageSource="img/logo 3.png"/>
+            </Label.OpacityMask>
+        </Label>
+        <Label Margin="75,44,10,0" Foreground="{x:Null}" Height="1" Background="{DynamicResource BorderBrush}" VerticalAlignment="Top"/>
+
+        <Label Content="Visual Application Builder" HorizontalAlignment="Left" Margin="75,6,0,0" VerticalAlignment="Top" Width="301" FontSize="18" Foreground="{DynamicResource DisabledBackgroundBrush}"/>
+        <Button Style="{DynamicResource BackGroundButtonStyle}" Margin="0,11,10,0" VerticalAlignment="Top" Height="20" Width="30" x:Name="buttonCloseApp" Background="{DynamicResource BackgroundBrush}" HorizontalAlignment="Right" Click="buttonCloseApp_Click">
+            <Button.Content>
+                <Image Source="img\close.png" Height="20" Width="20" />
+            </Button.Content>
+        </Button>
+        <Button Style="{DynamicResource BackGroundButtonStyle}" Margin="0,11,45,0" VerticalAlignment="Top" Height="20" Width="30" x:Name="buttonMinimizeApp" BorderBrush="{x:Null}" Background="{DynamicResource BackgroundBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" Click="buttonMinimizeApp_Click">
+            <Button.Content>
+                <Image Source="img\minimize.png" Height="20" Width="20" />
+            </Button.Content>
+        </Button>
+
+        <Button Style="{DynamicResource BackGroundButtonStyle}" Margin="0,11,142,0" VerticalAlignment="Top" Height="20" Width="30" x:Name="buttonHelp" BorderBrush="{x:Null}" Background="{DynamicResource BackgroundBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" Click="buttonHelp_Click">
+            <Button.Content>
+                <Image Source="img\help.png" Height="20" Width="20" />
+            </Button.Content>
+        </Button>
+
+        <Label Content="Blocks toolbar" HorizontalAlignment="Left" Margin="-34,114,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="90" Foreground="{DynamicResource DisabledBackgroundBrush}" FontSize="12">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button x:Name="buttonNew" Style="{DynamicResource BackGroundButtonStyle}" HorizontalAlignment="Left" Margin="75,54,0,0" VerticalAlignment="Top" Width="23" BorderBrush="{x:Null}" Height="23" Foreground="{x:Null}" Background="{DynamicResource BackgroundBrush}" Click="buttonNew_Click">
+            <Button.Content>
+                <Image Source="img/new.png"/>
+            </Button.Content>
+        </Button>
+        <Button x:Name="buttonOpen" Style="{DynamicResource BackGroundButtonStyle}" HorizontalAlignment="Left" Margin="103,54,0,0" VerticalAlignment="Top" Width="23" BorderBrush="{x:Null}" Foreground="{x:Null}" Height="23" Padding="0" Background="{DynamicResource BackgroundBrush}" Click="buttonOpen_Click">
+            <Button.Content>
+                <Image Source="img/open.png"/>
+            </Button.Content>
+        </Button>
+        <Button x:Name="buttonSave" Style="{DynamicResource BackGroundButtonStyle}" HorizontalAlignment="Left" Margin="131,54,0,0" VerticalAlignment="Top" Width="23" BorderBrush="{x:Null}" Foreground="{x:Null}" Height="23" Padding="0" Background="{DynamicResource BackgroundBrush}" Click="buttonSave_Click">
+            <Button.Content>
+                <Image Source="img/save.png"/>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="buttonExecute" Style="{DynamicResource BackGroundButtonStyle}" HorizontalAlignment="Left" Margin="186,54,0,0" VerticalAlignment="Top" Width="70" BorderBrush="{x:Null}" Foreground="{x:Null}" Height="23" Padding="0" Background="{DynamicResource BackgroundBrush}" Click="buttonExecute_Click">
+            <Button.Content>
+                <Image Source="img/Execute.png"/>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="buttonSaveCode" Style="{DynamicResource BackGroundButtonStyle}" HorizontalAlignment="Left" Margin="159,54,0,0" VerticalAlignment="Top" Width="22" BorderBrush="{x:Null}" Foreground="{x:Null}" Height="23" Padding="0" Background="{DynamicResource BackgroundBrush}" Click="buttonSaveCode_Click">
+            <Button.Content>
+                <Image Source="img/saveCs.png"/>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="buttonGenerateCode" Style="{DynamicResource AlphaButtonStyle}" ToolTip="Generate code" HorizontalAlignment="Left" Margin="315,57,0,0" VerticalAlignment="Top" Height="17" Width="20" BorderBrush="{x:Null}" Foreground="{x:Null}" Padding="0" Background="{DynamicResource OrangeBrush}" Click="buttonGenerateCode_Click" OpacityMask="{DynamicResource GenerateCodeButtonBrush}" />
+
+        <Label x:Name="labelProjectName" Content="New Project.vabp" HorizontalAlignment="Left" Margin="75,83,0,0" VerticalAlignment="Top" Width="674" FontSize="14" Foreground="{DynamicResource BackgroundBrush}" Background="{x:Null}" FontWeight="Bold"/>
+        <Label Content="All rights reserved! iTi - Visual Application Builder team 2015 ©" Height="25" VerticalAlignment="Bottom" Background="{DynamicResource BlueBrush}" Foreground="{DynamicResource BackgroundBrush}"/>
+        <ComboBox x:Name="comboBoxTheme" Margin="0,53,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="162" Height="25" SelectionChanged="ComboBox_SelectionChanged" Foreground="{DynamicResource DisabledBackgroundBrush}">
+            <ComboBoxItem Content="DarkTheme" IsSelected="True" Foreground="{DynamicResource DisabledBackgroundBrush}"/>
+            <ComboBoxItem Content="LightTheme" Foreground="{DynamicResource DisabledBackgroundBrush}" />
+        </ComboBox>
+
+    </Grid>
+</Window>

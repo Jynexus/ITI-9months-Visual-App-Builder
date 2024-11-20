@@ -1,0 +1,39 @@
+﻿<UserControl:BlockBase
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             x:Class="VisualApplicationBuilder.Block.StatementBlock" 
+             xmlns:UserControl="clr-namespace:VisualApplicationBuilder.ResourceClasses;assembly=ResourceClasses"
+             mc:Ignorable="d" Height="75.541" Width="400" >
+
+    <UserControl.Resources>
+
+    </UserControl.Resources>
+
+    <Border x:Name="borderOuter" Background="{DynamicResource BackgroundBrush}" BorderBrush="{DynamicResource BorderBrush2}" BorderThickness="1" CornerRadius="0">
+        <StackPanel x:Name="stackPanelOuter">
+            <Grid x:Name="gridHeader" Height="30" Margin="1,1,1,0" Background="{DynamicResource BackgroundBrush2}" MouseEnter="gridHeader_MouseEnter">
+                <Label x:Name="labelBlockName" Content="Statement" HorizontalAlignment="Left" Margin="30,1,0,0" VerticalAlignment="Top" Foreground="{DynamicResource DisabledBackgroundBrush}" Height="26" Width="71"/>
+                <Ellipse x:Name="statusIndicator" HorizontalAlignment="Left" Height="20" Width="20" Margin="5,5,0,0" VerticalAlignment="Top" Fill="{DynamicResource DisabledBackgroundBrush}">
+                    <Ellipse.OpacityMask>
+                        <ImageBrush ImageSource="/img/statement.png"/>
+                    </Ellipse.OpacityMask>
+                </Ellipse>
+                
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,40,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonHighlight" BorderBrush="{x:Null}" Background="{DynamicResource OrangeBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource HighlightButtonBrush}"/>
+                <Button Style="{DynamicResource AlphaButtonStyle}" Margin="0,2,9,0" VerticalAlignment="Top" Height="25" Width="25" x:Name="buttonRemoveBlock" BorderBrush="{x:Null}" Background="{DynamicResource RedBrush}" Foreground="{x:Null}" HorizontalAlignment="Right" OpacityMask="{DynamicResource CloseButtonBrush}"/>
+
+            </Grid>
+
+            <Grid Height="25" Margin="10,10,10,0" VerticalAlignment="Top">
+                <Border BorderBrush="{DynamicResource BlueBrush}" BorderThickness="1" CornerRadius="0">
+                    <TextBox Background="{x:Null}" BorderBrush="{x:Null}" IsReadOnly="True" Foreground="{DynamicResource DisabledBackgroundBrush}">Statement</TextBox>
+                </Border>
+                <Border x:Name="gridStatement" BorderBrush="{DynamicResource BlueBrush}" BorderThickness="1" CornerRadius="0" Background="{DynamicResource BorderBrush}" Margin="69,0,0,0">
+                    <TextBox x:Name="textBoxStatement" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="{DynamicResource TextBrush2}" Text="" MouseEnter="textBoxStatement_MouseEnter"/>
+                </Border>
+            </Grid>
+        </StackPanel>
+    </Border>
+</UserControl:BlockBase>
